@@ -5,6 +5,8 @@
 
 同时，以 Linux 0.11 作为一个项目，在学习相应知识的基础上，去改动和添加 Linux 0.11 的部分实现。
 
+更多教程，请关注 [土堆教程](https://github.com/xiaotudui/tudui-tutorials)
+
 ---
 
 ### 参考书籍
